@@ -156,7 +156,7 @@ class Bot {
                         {
                             title: "How to track your order",
                             subtitle: "Never miss important shipping updates.",
-                            image_url: "https://messenger.fb.com/wp-content/uploads/2018/02/gieofglobe_tableau.png",
+                            image_url: "https://www.modernedge.online/Images/fbLike.png",
                             default_action: {
                                 type: "web_url",
                                 url: "https://messenger.fb.com",
